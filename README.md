@@ -4,9 +4,9 @@ Trois applis indépendantes : installe seulement celles que tu veux. Si Mirazuki
 
 | Appli | Version stable | Version bêta |
 |---|---|---|
-| **Mirazuki** · launcher, bibliothèque unifiée | — | [4.0 bêta 50](https://github.com/miraiijo/mirazuki-releases/releases/download/channel/Mirazuki-beta.apk) |
-| **Mirazuki Tube** · client YouTube sans publicité (non officiel) | — | [1.0 bêta 19](https://github.com/miraiijo/mirazuki-releases/releases/download/channel/MirazukiTube-beta.apk) |
-| **Mirazuki IPTV** · lecteur IPTV (M3U, Xtream Codes, guide XMLTV), aucune chaîne fournie | — | [1.0 bêta 26](https://github.com/miraiijo/mirazuki-releases/releases/download/channel/MirazukiIPTV-beta.apk) |
+| **Mirazuki** · launcher, bibliothèque unifiée | — | [4.0 bêta 51](https://github.com/miraiijo/miryo-releases/releases/download/channel/Mirazuki-beta.apk) |
+| **Mirazuki Tube** · client YouTube sans publicité (non officiel) | — | [1.0 bêta 19](https://github.com/miraiijo/miryo-releases/releases/download/channel/MirazukiTube-beta.apk) |
+| **Mirazuki IPTV** · lecteur IPTV (M3U, Xtream Codes, guide XMLTV), aucune chaîne fournie | — | [1.0 bêta 26](https://github.com/miraiijo/miryo-releases/releases/download/channel/MirazukiIPTV-beta.apk) |
 
 Les liens sont fixes et donnent toujours la dernière version : pratique avec l'appli **Downloader** sur la box.
 
