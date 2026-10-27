@@ -5,7 +5,7 @@ Trois applis indépendantes : installe seulement celles que tu veux. Si miryo es
 | Appli | Version stable | Version bêta |
 |---|---|---|
 | **miryo.** · launcher, bibliothèque unifiée | — | [4.0 bêta 56](https://github.com/miraiijo/miryo-releases/releases/download/channel/miryo-beta.apk) |
-| **miryo tube** · client YouTube sans publicité (non officiel) | — | [1.0 bêta 23](https://github.com/miraiijo/miryo-releases/releases/download/channel/miryo-tube-beta.apk) |
+| **miryo tube** · client YouTube sans publicité (non officiel) | — | [1.0 bêta 24](https://github.com/miraiijo/miryo-releases/releases/download/channel/miryo-tube-beta.apk) |
 | **miryo iptv** · lecteur IPTV (M3U, Xtream Codes, guide XMLTV), aucune chaîne fournie | — | [1.0 bêta 31](https://github.com/miraiijo/miryo-releases/releases/download/channel/miryo-iptv-beta.apk) |
 
 Les liens sont fixes et donnent toujours la dernière version : pratique avec l'appli **Downloader** sur la box.
