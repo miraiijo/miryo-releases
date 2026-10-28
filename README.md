@@ -5,7 +5,7 @@ Des applis indépendantes : installe seulement celles que tu veux. Si miryo est 
 | Appli | Version stable | Version bêta |
 |---|---|---|
 | **miryo.** · launcher, bibliothèque unifiée | — | [4.0 bêta 62](https://github.com/miraiijo/miryo-releases/releases/download/channel/miryo-beta.apk) |
-| **miryo iptv** · lecteur IPTV (M3U, Xtream Codes, guide XMLTV), aucune chaîne fournie | — | [1.0 bêta 36](https://github.com/miraiijo/miryo-releases/releases/download/channel/miryo-iptv-beta.apk) |
+| **miryo iptv** · lecteur IPTV (M3U, Xtream Codes, guide XMLTV), aucune chaîne fournie | — | [1.0 bêta 37](https://github.com/miraiijo/miryo-releases/releases/download/channel/miryo-iptv-beta.apk) |
 
 Les liens sont fixes et donnent toujours la dernière version : pratique avec l'appli **Downloader** sur la box.
 
